@@ -5,7 +5,7 @@
 - SASTRA'24
 - FLUTTER & DART 
 - Tech Enthusiast
-- Insta : [_ .krisxh. _](https://instagram.com/_.krisxh._)
+- Looking for : App Development Projects
 - Vanakkam da mapla !
 
 ---
