@@ -10,7 +10,7 @@
 
 ---
 
- [![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-dev-7&theme=highcontrast)](https://github.com/krish-dev-7/github-readme-stats)
+ [![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-dev-7&&show_icons=true_color=ff0202&theme=algolia)](https://github.com/krish-dev-7/github-readme-stats)
  
  ### Connect with me:
 
