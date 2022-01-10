@@ -7,7 +7,11 @@
 - Tech Enthusiast
 - Looking for : App Development Projects
 - Vanakkam da mapla !
-
+```
+while(try(effort)==success){
+   try(effort*2);
+ }
+```
 ---
 
  [![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-dev-7&&show_icons=true_color=ff0202&theme=algolia)](https://github.com/krish-dev-7/github-readme-stats)
