@@ -6,7 +6,6 @@
 - FLUTTER & DART 
 - Tech Enthusiast
 - Looking for : App Development Projects
-- Vanakkam da mapla !
 ```
 while(try(effort)==success){
    try(effort*2);
