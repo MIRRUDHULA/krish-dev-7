@@ -3,7 +3,8 @@
 ---
 
 - SASTRA'24
-- FLUTTER & DART 
+- FLUTTER & KOTLIN
+- CROSS & NATIVE
 - Tech Enthusiast
 - Looking for : App Development Projects
 ```
