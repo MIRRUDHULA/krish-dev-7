@@ -8,7 +8,7 @@
 - Tech Enthusiast
 - Looking for : App Development Projects
 ```
-while(try(effort)==success){
+while(try(effort)!=success){
    try(effort*2);
  }
 ```
