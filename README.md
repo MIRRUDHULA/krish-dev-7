@@ -13,6 +13,8 @@ while(try(effort)!=success){
  }
 ```
 ---
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-dev-7&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=krish-dev-7h&theme=merko" />
 
  [![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-dev-7&&show_icons=true_color=ff0202&theme=algolia)](https://github.com/krish-dev-7/github-readme-stats)
  
